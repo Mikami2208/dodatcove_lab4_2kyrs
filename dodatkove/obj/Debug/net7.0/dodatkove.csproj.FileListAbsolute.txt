@@ -1,0 +1,15 @@
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/bin/Debug/net7.0/dodatkove
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/bin/Debug/net7.0/dodatkove.deps.json
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/bin/Debug/net7.0/dodatkove.runtimeconfig.json
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/bin/Debug/net7.0/dodatkove.dll
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/bin/Debug/net7.0/dodatkove.pdb
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.csproj.AssemblyReference.cache
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.AssemblyInfoInputs.cache
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.AssemblyInfo.cs
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.csproj.CoreCompileInputs.cache
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.dll
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/refint/dodatkove.dll
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.pdb
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/dodatkove.genruntimeconfig.cache
+/Users/artemdwightm1/RiderProjects/dodatkove/dodatkove/obj/Debug/net7.0/ref/dodatkove.dll
